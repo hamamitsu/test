@@ -1,5 +1,5 @@
 ---
-title: My page
+title: 私のページ
 layout: default
 ---
 # {{ page.title }}
