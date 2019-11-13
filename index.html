@@ -1,5 +1,5 @@
-{% if post.outline %}
-<p>{{ post.outline }}</p>
-{% else %}
-<p>{{ post.content | strip_html | truncatewords: 50 }}</p>
-{% endif %}
+---
+title: My page
+layout: default
+---
+# {{ page.title }}
