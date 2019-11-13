@@ -1,3 +1,4 @@
+name: トライアルサイト
 theme: jekyll-theme-midnight
 gems:
   - jekyll-feed
