@@ -1,4 +1,4 @@
 name: トライアルサイト
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 gems:
   - jekyll-feed
