@@ -22,3 +22,7 @@ title: とりあえずJekyllで、のページ
 
 # コンテンツを記述します
 
+
+# Link
+* Pages公開URL  https://hamamitsu.github.io/test/
+* 練習ネタ http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/
