@@ -10,10 +10,10 @@ title: とりあえずJekyllで、のページ
 ````
 # Liquidを使う
 大文字を小文字に変換するフィルタを使ってみます。
-<h1>{{ "Hello World!" | downcase }}</h1>
+### {{ "Hello World!" | downcase }}
 
 ````
- <h1>{{ "Hello World!" | downcase }}</h1>
+### {{ "Hello World!" | downcase }}
 ````
 
 なるほど、Liquidは本文中に埋め込んで使うものなんですね。
