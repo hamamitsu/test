@@ -26,3 +26,8 @@ title: とりあえずJekyllで、のページ
 # Link
 * Pages公開URL  https://hamamitsu.github.io/test/
 * 練習ネタ http://jekyllrb-ja.github.io/docs/step-by-step/01-setup/
+
+# 図
+同階層にあるファイルを相対パスで呼んでみると、、、できた！！
+
+![svg図](drawio_gitlab.svg)
